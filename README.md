@@ -1,14 +1,27 @@
-## Hi there 👋
+## Hi
 
-**awisemanoncesaid/awisemanoncesaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Nicolas and I'm a 5th year IT student at Epitech.
+My strength are OOP and C++ programming.
+I aspire to be a software developer, I think ?
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Technologies I'm most familiar with :
+- C/C++, CMake, Git, Python, Lua, Typescript
+
+### Programming concepts I most commonly use :
+- OOP, MVC (MVVM), ECS
+
+### Web technologies I like, but still have to study :
+- Django, Node.js, React, HTLM/CSS, Javascript
+
+### Random things that peak my interest :
+- 3D Graphics, raytracing
+- Roblox scripting
+- Story-driven indie games that Markiplier plays
+- Exploring randomly generated worlds
+- EDM music
+
+### Things I'm trying to get into so bad but suck at :
+- Unity
+- Digital drawing
