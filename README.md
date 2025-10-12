@@ -1,6 +1,6 @@
 ![banner](images/banner.png)
 
-## Hi
+# Hi
 
 I'm Nicolas and I'm a 5th year student at Epitech.
 My strengths are OOP, C++ programming and software development.
