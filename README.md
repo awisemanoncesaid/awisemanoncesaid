@@ -1,3 +1,5 @@
+![banner](images/banner.png)
+
 ## Hi
 
 I'm Nicolas and I'm a 5th year student at Epitech.
