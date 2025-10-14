@@ -5,8 +5,8 @@
 I'm Nicolas and I'm a 5th year student at Epitech.  
 My strengths are OOP, C++ programming and software development.  
 I'm also a Roblox developer during my free time.  
-
-
+  
+  
 ### Technologies I'm most familiar with :
 - C/C++, CMake, Git, Python, Luau, TypeScript
 
@@ -18,8 +18,8 @@ I'm also a Roblox developer during my free time.
 
 ### Other random things that peak my interest :
 - 3D graphics, raytracing
-
-
+  
+  
 ## Check out some of my projects :
 
 Raytracer | Myworld | Webapp prototype | Myrunner
